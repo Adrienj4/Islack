@@ -2,19 +2,21 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="RouteBuilder" type="CLASS" />
-      <mapping pattern="Route_Builder" type="JAVA" />
+      <mapping pattern="Recieve" type="JAVA" />
       <mapping pattern="TweetRouterBuilder" type="JAVA" />
       <mapping pattern="TweetRouteBuilder" type="JAVA" />
       <mapping pattern="RouterBuilder" type="JAVA" />
       <mapping pattern="Router_Builder" type="JAVA" />
       <mapping pattern="TxetRouteBuilder" type="JAVA" />
       <mapping pattern="Tweet_to_DB" type="JAVA" />
-      <mapping pattern="Recieve" type="JAVA" />
+      <mapping pattern="Route_Builder" type="JAVA" />
       <mapping pattern="article" type="JAVA" />
       <mapping pattern="firstclass" type="JAVA" />
       <mapping pattern="Test_Tweet" type="JAVA" />
       <mapping pattern="Main" type="JAVA" />
       <mapping pattern="Test_Article" type="JAVA" />
+      <mapping pattern="header" type="JSP" />
+      <mapping pattern="footer" type="JSPX" />
       <mapping pattern="file" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
