@@ -1,7 +1,8 @@
 package com.islack.controller;
 
 import javax.persistence.Entity;
-import javax.validation.constraints.*;
+//import javax.validation.constraints.*;
+import java.util.Date;
 
 @Entity
 public class SignUpIn {
