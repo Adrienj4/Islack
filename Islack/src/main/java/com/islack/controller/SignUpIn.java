@@ -1,12 +1,7 @@
 package com.islack.controller;
 
-import org.springframework.format.annotation.DateTimeFormat;
-
 import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
 import javax.validation.constraints.*;
-import java.util.Date;
 
 @Entity
 public class SignUpIn {
