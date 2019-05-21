@@ -1,0 +1,12 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="CloudFoundry" type="cloudfoundry">
+      <configuration email="admin@isep.fr">
+        <option name="apiUrl" value="http://api.run.pivotal.io" />
+        <option name="domain" value="" />
+        <option name="organization" value="ISEP" />
+        <option name="space" value=" " />
+      </configuration>
+    </remote-server>
+  </component>
+</application>
